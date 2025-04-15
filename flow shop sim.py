@@ -169,3 +169,4 @@ if __name__ == '__main__':
               f"총 사이클 타임 = {cycle_time}, 각 기계 대기 시간 = {job.waiting_times}")
 
 # 5:00 추가
+# 5:36 추가
